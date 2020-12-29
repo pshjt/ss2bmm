@@ -37,7 +37,3 @@ The project was built with Visual Studio 2019 Community and requires `cmake >=3.
 ### (Optional) Get wxFormBuilder
 1) Get and install [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder/releases/tag/v3.9.0)
 2) Open `.\wxFormBuilder\SS2BlueModManager.fbp`
-
-## Contribute
-You want to improve the mod manager or otherwise help with development? Great! Contributions are always welcome.
-Create your own branch, use a rebase workflow, and open a pull request once you're good to go.
