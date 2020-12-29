@@ -1,4 +1,7 @@
 [![ss2bmm-build-release Actions Status](https://github.com/pshjt/ss2bmm/workflows/ss2bmm-build-release/badge.svg)](https://github.com/pshjt/ss2bmm/actions)
+# Deprecation
+SS2BMM is superseded by the more generic [Dark Mod Manager](https://github.com/pshjt/dmm).
+
 ## About
 This is the home of the System Shock 2 Blue Mod Manager, originally developed by bluemess in 2013 (SS2BMM).
 More info on its intended use and about mod installation for System Shock 2 in general can be obtained from [SystemShock.org](https://www.systemshock.org) and the 

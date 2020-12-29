@@ -91,7 +91,7 @@ WxfbMainFrame::WxfbMainFrame( wxWindow* parent, wxWindowID id, const wxString& t
 	sbSizer4->Add( selectModArchivesButton_, 0, wxBOTTOM|wxEXPAND, 1 );
 
 	manageProfilesButton_ = new wxButton( sbSizer4->GetStaticBox(), ID_MANAGE_PROFILES_BUTTON, wxT("Manage profiles..."), wxDefaultPosition, wxDefaultSize, 0 );
-	manageProfilesButton_->SetToolTip( wxT("Dummy tooltip for manager") );
+	manageProfilesButton_->SetToolTip( wxT("Open profile manager") );
 
 	sbSizer4->Add( manageProfilesButton_, 0, wxEXPAND|wxTOP, 1 );
 
