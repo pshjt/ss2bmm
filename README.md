@@ -5,7 +5,7 @@ SS2BMM is superseded by the more generic [Dark Mod Manager](https://github.com/p
 ## About
 This is the home of the System Shock 2 Blue Mod Manager, originally developed by bluemess in 2013 (SS2BMM).
 More info on its intended use and about mod installation for System Shock 2 in general can be obtained from [SystemShock.org](https://www.systemshock.org) and the 
-[official thread](https://www.systemshock.org/index.php?topic=4790.0 "SS2BMM@SystemShock.org").
+[official thread](https://www.systemshock.org/index.php?topic=11692 "SS2BMM@SystemShock.org").
 
 ## Requirements
 SS2BMM requires Windows Vista SP2 or later to run by default but can be compiled for WinXP given appropriate VC++ settings.
